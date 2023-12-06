@@ -1,5 +1,5 @@
 # ApiProducto
 
-## WebApi con ASP.NET Core básico
+## WebApi básico con ASP.NET Core
 Entity Framework
 CRUD - HttpPost, HttpGet, HttpPut, HttpDelete
